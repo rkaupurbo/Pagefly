@@ -409,5 +409,10 @@
 	    max-width: 240px;
 	    padding: 0 0 15px 0;
 	}
+
+	.become_partner_section .btn-info {
+	    padding: 6px 21px!important;
+	  
+	}
 	
 }
