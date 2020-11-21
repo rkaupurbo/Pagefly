@@ -3,9 +3,7 @@
 	.heading_banne_section h1 {
 	    padding: 12px 60px 12px calc(50% - 570px);
 	}
-	.navbar-light {
-	    padding: 22px 0;
-	}
+	
 
 }
 
@@ -38,9 +36,11 @@
 	header img, svg {
 	    width: 140px;
 	}
-	.navbar-light {
-	    padding: 20px 0;
+
+	header .isStuck{
+		padding: 20px 0;
 	}
+	
 
 
 	
@@ -126,9 +126,7 @@
 	    width: 130px;
 	}
 
-	.navbar-light {
-	    padding: 18px 0;
-	}
+	
 
 	.join_section .col-lg-7.col-md-5.col-12.mb-lg-0.mb-5 {
 	    order: 2;
@@ -143,6 +141,10 @@
 	    padding: 8px 25px!important;
 	    margin-bottom: 40px;
 	    font-size: 16px;
+	}
+
+	header .isStuck{
+		padding: 17px 0;
 	}
 
 	
@@ -222,9 +224,7 @@
 	    width: 120px;
 	}
 
-	.navbar-light {
-	    padding: 15px 0;
-	}
+	
 
 	.join_section .col-lg-7.col-md-5.col-12.mb-lg-0.mb-5 {
 	    order: -1;
@@ -260,6 +260,10 @@
 	    padding: 8px 25px!important;
 	    margin-bottom: 40px;
 	    font-size: 14px;
+	}
+
+	header .isStuck{
+		padding: 15px 0;
 	}
 
 
@@ -299,9 +303,7 @@
 	header img, svg {
 	    width: 110px;
 	}
-	.navbar-light {
-	    padding: 12px 0;
-	}
+	
 
 	.card_section .card-title {
 	    font-weight: 600;
@@ -324,6 +326,10 @@
 	.join_section p {
 	    max-width: 411px;
 	    margin: 10px auto;
+	}
+
+	header .isStuck{
+		padding: 12px 0;
 	}
 
 
@@ -379,9 +385,7 @@
 	    width: 100px;
 	}
 
-	.navbar-light {
-	    padding: 10px 0;
-	}
+	
 
 	.join_inner_text {
 	    padding: 10px;
@@ -413,6 +417,10 @@
 	.become_partner_section .btn-info {
 	    padding: 6px 21px!important;
 	  
+	}
+
+	header .isStuck{
+		padding: 10px 0;
 	}
 	
 }
